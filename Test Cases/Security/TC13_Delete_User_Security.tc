@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13_Delete_User_Security</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96aaacd2-143f-42b3-a384-0f7ba0e11e91</testCaseGuid>
+</TestCaseEntity>

@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/button_edit_user'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/label_Username'))
 
-WebUI.setText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/input__FullName'), 'EDIT TEST ALI PROFES')
+WebUI.setText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/input__FullName'), 'EDIT USER TEST ALI PROFES')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/label_Full Name'))
 
