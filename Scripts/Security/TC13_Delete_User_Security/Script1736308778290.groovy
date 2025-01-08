@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Login/TC01_Login_Succes'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/a_Security'))
+
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/a_User'))
+
+WebUI.scrollToElement(findTestObject('Security/user/Page_ANZ - Flanz-i/button_delete_user'), 5)
+
+WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/button_delete_user'))
+
+WebUI.verifyElementClickable(findTestObject('Security/user/Page_ANZ - Flanz-i/button_delete_user'))
+
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok (delete user)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok (delete user)'), 
+    2)
+
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok (delete user)'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok (delete user)'), 
+    2)
+
+WebUI.closeBrowser()
+
