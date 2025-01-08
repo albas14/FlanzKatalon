@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_VA</name>
+   <tag></tag>
+   <elementGuidId>9dd23be6-36d3-4ece-a4ba-a2c7561f6481</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabstrip-2']/div/div/div[2]/div/div/div/div/div/div[2]/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>414aabbd-dfe0-46e8-958b-d7435626ec00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary</value>
+      <webElementGuid>b031c169-a353-437f-87e0-2271db8f2d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VA</value>
+      <webElementGuid>032b5994-588a-4c2d-9674-3da27605ac57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabstrip-2&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-lg-3&quot;]/div[@class=&quot;k-card&quot;]/div[@class=&quot;k-card-header&quot;]/h3[@class=&quot;k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary&quot;]</value>
+      <webElementGuid>7471bffc-29ba-441c-ba69-8d5dfe67e42a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabstrip-2']/div/div/div[2]/div/div/div/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>17c11c95-9937-4849-a305-e9843df6663f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted'])[5]/following::h3[1]</value>
+      <webElementGuid>9a7d987c-7eac-4345-87e4-ebd010507fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[5]/following::h3[1]</value>
+      <webElementGuid>ed32ea57-6276-4414-b3e1-aa2712152dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[6]/preceding::h3[1]</value>
+      <webElementGuid>44d6c86f-f619-4601-84e0-929134519ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted'])[6]/preceding::h3[1]</value>
+      <webElementGuid>011ad753-d54c-41b0-b932-e0f7736070c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VA']/parent::*</value>
+      <webElementGuid>3690e57a-e769-4969-a0b5-db15963d86c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div/h3</value>
+      <webElementGuid>ef6615ca-2c6c-48cd-a60e-d8020483b8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'VA' or . = 'VA')]</value>
+      <webElementGuid>754b1eb5-fc12-4404-b3ad-1e6bb7fd0c7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

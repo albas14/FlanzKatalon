@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Indonesia Private Bank_mdi mdi-plus-box-o_118bd6</name>
+   <tag></tag>
+   <elementGuidId>3221ad53-fe6b-41d4-94b9-dd25ad058e8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddBranch > i.mdi.mdi-plus-box-outline.mdi-24px</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnAddBranch']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>77a76e4d-79b2-4048-9333-9a8ad9fd8331</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-plus-box-outline mdi-24px</value>
+      <webElementGuid>55410ecc-5ff1-4d4e-a466-7538c8d432fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddBranch&quot;)/i[@class=&quot;mdi mdi-plus-box-outline mdi-24px&quot;]</value>
+      <webElementGuid>7200bf35-ffe7-4d61-93b9-6ebc0713f499</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnAddBranch']/i</value>
+      <webElementGuid>2b005d92-3c0b-4c9c-a605-4ea24be1f683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/button/i</value>
+      <webElementGuid>51ae7c42-4ec0-4b2b-aa4a-458372962de7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

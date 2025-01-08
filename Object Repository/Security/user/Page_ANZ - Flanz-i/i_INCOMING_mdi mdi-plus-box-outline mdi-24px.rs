@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_INCOMING_mdi mdi-plus-box-outline mdi-24px</name>
+   <tag></tag>
+   <elementGuidId>cb1fa650-9a22-4718-be70-265a8a64569e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnAddTransactionType > i.mdi.mdi-plus-box-outline.mdi-24px</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnAddTransactionType']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>784228d8-7d3d-45d2-90cd-769535e63c39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-plus-box-outline mdi-24px</value>
+      <webElementGuid>9b9772ac-06da-4925-9ac5-d3b45e13572c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddTransactionType&quot;)/i[@class=&quot;mdi mdi-plus-box-outline mdi-24px&quot;]</value>
+      <webElementGuid>cea69061-dfb1-4309-b65b-f22ea370b6a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnAddTransactionType']/i</value>
+      <webElementGuid>b4b9f45a-eaa9-4565-85c0-11ba1b4f4ef3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/button/i</value>
+      <webElementGuid>65cc0b82-e7f0-4643-9c13-7c8287332147</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

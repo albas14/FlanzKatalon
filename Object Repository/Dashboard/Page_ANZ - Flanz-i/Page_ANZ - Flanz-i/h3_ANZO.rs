@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_ANZO</name>
+   <tag></tag>
+   <elementGuidId>7bf5fd48-316c-4932-b2ef-3ea0a53e4a66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabstrip-1']/div/div/div[2]/div/div/div/div/div/div[3]/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>a52c2a6d-d9fd-4216-ab91-405138c48eed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary</value>
+      <webElementGuid>7bc2346c-f7f4-4a8d-aa62-e13c36cea2a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ANZO</value>
+      <webElementGuid>d7931b41-b662-4f42-aae9-8e3f1c0fc657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabstrip-1&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col col-lg-3&quot;]/div[@class=&quot;k-card&quot;]/div[@class=&quot;k-card-header&quot;]/h3[@class=&quot;k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary&quot;]</value>
+      <webElementGuid>99745ec7-434a-4426-a52b-7aa5a0f9473e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabstrip-1']/div/div/div[2]/div/div/div/div/div/div[3]/div/div/h3</value>
+      <webElementGuid>95548c28-022f-4c23-8e0f-3b16096dce33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted'])[2]/following::h3[1]</value>
+      <webElementGuid>f8cccc12-5966-4157-9f20-08f5a6245572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[2]/following::h3[1]</value>
+      <webElementGuid>af58e528-6c1b-4d03-8109-7aaba1243905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[3]/preceding::h3[1]</value>
+      <webElementGuid>97785063-2f36-485c-9e7a-de19c1fb6a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted'])[3]/preceding::h3[1]</value>
+      <webElementGuid>984c5323-0321-4f34-a4df-ba30bbd4ab6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h3</value>
+      <webElementGuid>dc4a2075-277b-4d2a-ad10-2031be90e0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'ANZO' or . = 'ANZO')]</value>
+      <webElementGuid>6f1b1674-dc6b-44bf-89c9-6ab4cd02d05e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Action_TransactionType</name>
+   <tag></tag>
+   <elementGuidId>8da7be0b-b756-4807-9315-da2f020824ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='BKT'])[1]/following::span[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cfeaf10d-0abd-4ebd-b1b1-4e9e09ecaacc > span.k-cell-inner > span.k-link > span.k-column-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>84d22622-90de-455d-ba40-adda5a3171f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-column-title</value>
+      <webElementGuid>69aa099c-ed94-4942-bd39-ba07b26f2a03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Action</value>
+      <webElementGuid>dc2dff89-5e10-4fab-b80e-9298da35ed34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cfeaf10d-0abd-4ebd-b1b1-4e9e09ecaacc&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
+      <webElementGuid>c378c47b-8d94-4c57-a26e-4fae6a9e65d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='cfeaf10d-0abd-4ebd-b1b1-4e9e09ecaacc']/span/span/span</value>
+      <webElementGuid>27b86639-a1e5-481a-bdb0-57862884d30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BKT'])[1]/following::span[5]</value>
+      <webElementGuid>142badaa-2ee8-41d8-80fd-fa77aa3b2338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[1]/following::span[8]</value>
+      <webElementGuid>0b53edcc-fe55-4d78-a991-e24220220662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Name'])[1]/preceding::span[1]</value>
+      <webElementGuid>63241a62-488d-426f-9781-0ebd54fa1d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BKT'])[2]/preceding::span[4]</value>
+      <webElementGuid>1facf7ea-63f6-4260-81db-1d545755cc29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/div/div/div/table/thead/tr/th/span/span/span</value>
+      <webElementGuid>9e5c3493-76cb-4b72-93a0-277b26e70dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Action' or . = 'Action')]</value>
+      <webElementGuid>db3e6cf8-ba67-4273-b1c5-f995840a5772</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

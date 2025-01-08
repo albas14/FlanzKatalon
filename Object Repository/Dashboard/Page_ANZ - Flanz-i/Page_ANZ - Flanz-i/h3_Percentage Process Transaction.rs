@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Percentage Process Transaction</name>
+   <tag></tag>
+   <elementGuidId>d15515fe-392b-4259-8856-2e980bb3b103</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabstrip-2']/div/div/div[2]/div/div/div/div[2]/div/div[2]/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ca5d9a9f-1d85-4920-a348-319b18a91147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary</value>
+      <webElementGuid>35e2763c-dbe3-4713-8e88-9b305bfabc29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Percentage Process Transaction</value>
+      <webElementGuid>ba1b0b18-3260-42c3-b0e0-a9c9f57d5f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabstrip-2&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9 col-sm-9 col-xs-9&quot;]/div[@class=&quot;k-card style=&quot;]/div[@class=&quot;k-card-header&quot;]/h3[@class=&quot;k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary&quot;]</value>
+      <webElementGuid>aead84ae-21a3-433a-9f67-3148852ef621</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabstrip-2']/div/div/div[2]/div/div/div/div[2]/div/div[2]/div/div/h3</value>
+      <webElementGuid>9d19da94-123e-47a2-a51b-48521bbab3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incoming Transaction List'])[1]/following::h3[1]</value>
+      <webElementGuid>9be11a45-e70e-42c6-9434-b46cc8b6a64e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[4]/following::h3[2]</value>
+      <webElementGuid>09da444d-bc00-408b-94b3-836e90687c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data available'])[2]/preceding::h3[1]</value>
+      <webElementGuid>5150ec32-87aa-41e4-96a1-d59ee453ddf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div[2]/div/div[2]/div/div/h3</value>
+      <webElementGuid>58dec6b7-e323-4790-a474-168c5b32c0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Percentage Process Transaction' or . = 'Percentage Process Transaction')]</value>
+      <webElementGuid>a91b036b-475f-4464-9b5c-f98c808b82d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

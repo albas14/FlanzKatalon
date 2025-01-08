@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_BKT</name>
+   <tag></tag>
+   <elementGuidId>d5f13161-439c-4648-a225-fe5350aa09a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[4]/following::td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4da1c570-7a5f-47ca-bcd2-af5b8bdf46b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-table-td</value>
+      <webElementGuid>d23b2d49-5aa6-49c7-984c-17702ea7f7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>9537984a-4438-4a11-aabb-3305da77559d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BKT</value>
+      <webElementGuid>1fa913ae-047f-4013-974e-577d59dbab82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a828afde-6dd5-4aab-9730-9dcc62b6ab00&quot;)/tr[@class=&quot;k-table-row k-master-row&quot;]/td[@class=&quot;k-table-td&quot;]</value>
+      <webElementGuid>f1b7637c-36db-46f1-9aed-8b422ec3a0a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='a828afde-6dd5-4aab-9730-9dcc62b6ab00']/tr/td[2]</value>
+      <webElementGuid>3c696c4d-1cd6-4f3d-a3d6-44d798ac0ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Name'])[1]/following::td[2]</value>
+      <webElementGuid>7e2a974f-b23f-48d0-970b-d2e05b3c95fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[4]/following::td[2]</value>
+      <webElementGuid>dff4f262-d2e6-4e56-8d95-e54a933acc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- SELECT ONE --'])[1]/preceding::td[1]</value>
+      <webElementGuid>d4617fe4-475a-42da-a316-73e2e2a3de66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[1]/preceding::td[1]</value>
+      <webElementGuid>0316931e-2f73-43c5-a457-ee1819910fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]/div/div/div/div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>29e68e91-b15d-44f9-865b-837b75e866b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'BKT' or . = 'BKT')]</value>
+      <webElementGuid>09f55944-c216-4219-96c8-242fd95805bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

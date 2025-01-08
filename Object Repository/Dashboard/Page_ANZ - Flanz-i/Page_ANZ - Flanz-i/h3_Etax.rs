@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Etax</name>
+   <tag></tag>
+   <elementGuidId>d7eaf70b-76b2-4766-b600-7c6a07012ce8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabstrip-3']/div/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>87856a63-7d9d-477b-ab70-3a4a6dcd879a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary</value>
+      <webElementGuid>c37e4d2b-3274-4950-aa7f-ae0d1151ce9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Etax</value>
+      <webElementGuid>7e1cfcc8-996c-4b47-a4ed-00024f621866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabstrip-3&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;d-grid gap-2&quot;]/div[@class=&quot;p-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 col-md-3 col-sm-3 col-xs-3&quot;]/div[@class=&quot;k-card-list&quot;]/div[@class=&quot;k-card&quot;]/div[@class=&quot;k-card-header&quot;]/h3[@class=&quot;k-card-title text-uppercase font-weight-bold text-primary text-uppercase font-weight-bold text-primary&quot;]</value>
+      <webElementGuid>bb4f3eea-d74a-4c3d-a842-4853394b1d57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabstrip-3']/div/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>c5051e20-33e1-495c-8511-42a66205da7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted'])[11]/following::h3[1]</value>
+      <webElementGuid>395c2cad-78d8-4700-a055-010dc89727af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[11]/following::h3[1]</value>
+      <webElementGuid>5aea1e55-17a0-4b86-82dc-bd740f1a8c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[12]/preceding::h3[1]</value>
+      <webElementGuid>39d4bc8c-8a82-4f58-9549-c15a7cd1f1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posted'])[12]/preceding::h3[1]</value>
+      <webElementGuid>8acf064e-6e71-4da7-a321-175952f44b45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Etax']/parent::*</value>
+      <webElementGuid>59712260-00bf-4d81-9b1f-8f02e3194a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/div[2]/div/div/div/div[2]/div/h3</value>
+      <webElementGuid>652acec3-b97c-4bb7-b8f5-966a67d031c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Etax' or . = 'Etax')]</value>
+      <webElementGuid>1a59ab24-c3a9-4270-8145-0dbb4d2188b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

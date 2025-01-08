@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Filter_Outgoing - Input Date Manual</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30c32570-31d2-4c6b-ac0a-fe64555c6f56</testCaseGuid>
+</TestCaseEntity>

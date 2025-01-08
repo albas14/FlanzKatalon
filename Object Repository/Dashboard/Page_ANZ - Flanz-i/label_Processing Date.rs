@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Processing Date</name>
+   <tag></tag>
+   <elementGuidId>0cea545a-e3e4-4f46-b63f-b18c3891b4f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.k-radio-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='rgSelectDateTypeOutgoing']/li/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>97174f20-1e3c-45e9-b5a0-4443b1a26f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>d7fd23f6-ae50-43d9-99c2-30a7955696d0</value>
+      <webElementGuid>a15c9185-e1ca-49c7-a143-8fa653688e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-radio-label</value>
+      <webElementGuid>c9581e55-4b69-437d-8f0a-c7a3ac47e72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing Date</value>
+      <webElementGuid>ad464943-e86e-435c-9c5c-d54b68db0018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rgSelectDateTypeOutgoing&quot;)/li[@class=&quot;k-radio-list-item&quot;]/label[@class=&quot;k-radio-label&quot;]</value>
+      <webElementGuid>caa9ed56-8635-4891-8398-e21029c60c94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='rgSelectDateTypeOutgoing']/li/label</value>
+      <webElementGuid>f59e078f-d593-4e91-8eb6-35c882842501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::label[1]</value>
+      <webElementGuid>86f3c3fa-f213-4288-9f7c-8b163ccd936d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::label[1]</value>
+      <webElementGuid>3d0c05f5-e2b5-40bf-9ab7-d8a9dc9e9c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Value Date'])[1]/preceding::label[1]</value>
+      <webElementGuid>3990b3b1-c907-4419-88e8-9f1664ec6b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start'])[1]/preceding::label[2]</value>
+      <webElementGuid>e914255e-fe3a-4480-8e95-0f9eb014ad32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Processing Date']/parent::*</value>
+      <webElementGuid>b335c3d3-240d-4187-b5fc-03b461360dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>35f9ca2f-431f-41a2-a1b5-9f46d2b6ee7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Processing Date' or . = 'Processing Date')]</value>
+      <webElementGuid>e22c910c-7e48-404a-b6cb-51d2c2573c15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

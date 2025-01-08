@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Member of</name>
+   <tag></tag>
+   <elementGuidId>74a3bcff-2bc0-4067-a458-9e63be674d25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#f22bb766-7526-4bed-ba9b-ce7925316413 > span.k-cell-inner > span.k-link > span.k-column-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='f22bb766-7526-4bed-ba9b-ce7925316413']/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91d7b576-feb6-4297-b8b0-75ca20fd38a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-column-title</value>
+      <webElementGuid>2c66cc0d-f86a-4adf-854a-e8b81addbace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Member of</value>
+      <webElementGuid>0b2b365c-566b-402e-bd03-fa8c0c2905a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f22bb766-7526-4bed-ba9b-ce7925316413&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
+      <webElementGuid>a6da8549-ba3e-4034-aeee-eafe6d48d8f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='f22bb766-7526-4bed-ba9b-ce7925316413']/span/span/span</value>
+      <webElementGuid>34ef5f71-1975-461a-8dba-080091a7241a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deparment Name'])[1]/following::span[3]</value>
+      <webElementGuid>7d709fa6-8a1f-4948-bcb9-df62c68b9b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch Name'])[1]/following::span[6]</value>
+      <webElementGuid>1c48253e-e82f-4772-bc2b-21d8341791b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Access'])[1]/preceding::span[1]</value>
+      <webElementGuid>7c134fb0-62f3-4285-97cf-f8799e5bdb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER DUA CHECKER'])[1]/preceding::span[4]</value>
+      <webElementGuid>dd755b50-d75e-4a46-bd3b-c40b710ae7fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Member of']/parent::*</value>
+      <webElementGuid>3b21d501-c5fe-4cd3-8640-74756d4c8e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[10]/span/span/span</value>
+      <webElementGuid>3dbfff47-19f8-49e3-abcd-75792e39a4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Member of' or . = 'Member of')]</value>
+      <webElementGuid>891f34cc-f420-4faf-87e1-bdfa243d2eca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

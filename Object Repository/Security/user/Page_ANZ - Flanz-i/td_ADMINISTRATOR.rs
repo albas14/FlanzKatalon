@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_ADMINISTRATOR</name>
+   <tag></tag>
+   <elementGuidId>24ec888a-9c5d-4f77-b3cf-581b101b7d11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Name'])[1]/following::td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>492b93dd-aa41-4b78-893b-5f09661e932f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-table-td</value>
+      <webElementGuid>cd33de91-b89f-4f3d-afaa-c1c8798dc493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>69208e5a-cfb7-4712-8967-721b96bb82bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADMINISTRATOR</value>
+      <webElementGuid>af002eed-6f38-44a8-9044-acec0954f855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e4549284-a4d9-4764-b01d-fcfe58b1af7d&quot;)/tr[@class=&quot;k-table-row k-master-row&quot;]/td[@class=&quot;k-table-td&quot;]</value>
+      <webElementGuid>d27cd663-1a92-419a-bff4-fbfe200c7b9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='e4549284-a4d9-4764-b01d-fcfe58b1af7d']/tr/td[2]</value>
+      <webElementGuid>88944a4d-1c64-4a0f-a3ab-d4a23f8919b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Name'])[1]/following::td[2]</value>
+      <webElementGuid>b6895a04-8940-4bb6-9e1d-64636b5b2a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[2]/following::td[2]</value>
+      <webElementGuid>9102d0b6-8cc5-491b-a7a9-70b966f136d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addtional Branch'])[1]/preceding::td[1]</value>
+      <webElementGuid>02741194-82b1-49c7-8c21-7a004a924ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- SELECT ONE --'])[1]/preceding::td[1]</value>
+      <webElementGuid>eb5a68cb-74e9-4e66-a1d7-89a9a67c4ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>5963c597-67ce-4500-ac23-bde6b7702ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'ADMINISTRATOR' or . = 'ADMINISTRATOR')]</value>
+      <webElementGuid>15a4bf16-c89f-4e55-aee4-c6e06ee2c037</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_percnt_rejected</name>
+   <tag></tag>
+   <elementGuidId>b3f4a92e-4fb4-4b46-8164-81df7ea4dcd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='66.07% (37)']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>g:nth-of-type(6) > text:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fcb5face-cb06-4f1e-a305-e292e10e6171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>106.5951128941908</value>
+      <webElementGuid>58cb1229-8392-4b1c-b9f8-ed4c720f5f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>51.5</value>
+      <webElementGuid>6c3d3ec8-e517-44e1-9b10-96e755cd4a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>a7dce963-717d-4254-8ed6-b5f463e0af65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>rgb(61, 61, 61)</value>
+      <webElementGuid>80ef4061-0ef1-4ec6-a48b-c8043663be59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-opacity</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>33ff3f0e-8bc5-4bcf-ab55-01c606582016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>66.07% (37)</value>
+      <webElementGuid>b3f4d9c4-b884-492f-ba69-2f023bfcf7ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chrOutgoing&quot;)/svg[1]/g[1]/g[4]/g[1]/g[6]/text[2]</value>
+      <webElementGuid>917adc62-bf34-452c-b923-87b8a0518dc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='66.07% (37)']/parent::*</value>
+      <webElementGuid>5db9e2aa-5662-4e34-bdfc-35dae756c014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = '66.07% (37)' or . = '66.07% (37)')]</value>
+      <webElementGuid>08110191-13d5-450e-9095-0508c5d10504</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

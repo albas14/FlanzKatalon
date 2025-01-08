@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08_Verify_User_Security</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea68f461-d3ba-4b1d-8e4c-e2c24a372657</testCaseGuid>
+</TestCaseEntity>

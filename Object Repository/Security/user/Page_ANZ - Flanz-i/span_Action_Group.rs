@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Action_Group</name>
+   <tag></tag>
+   <elementGuidId>fa286a77-a8ae-4192-beee-eeebfe9fc774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Action' or . = 'Action')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e1977aff-82b1-4b9e-aa21-538461ecb2ce > span.k-cell-inner > span.k-link > span.k-column-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fb96f1d-7202-42f2-a30e-8b60abdc7674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-column-title</value>
+      <webElementGuid>eff9982c-d951-43c5-81f8-7652cb569f73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Action</value>
+      <webElementGuid>9cab47b2-6408-4315-88f1-7c0beef8b9d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e1977aff-82b1-4b9e-aa21-538461ecb2ce&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
+      <webElementGuid>1a5758e6-85c9-499a-92dc-1115c2931661</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='e1977aff-82b1-4b9e-aa21-538461ecb2ce']/span/span/span</value>
+      <webElementGuid>31865b44-1c20-450b-bb89-d3577224b95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMINISTRATOR'])[2]/following::span[5]</value>
+      <webElementGuid>e4318151-cbb0-408d-b35b-407191994edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group'])[2]/following::span[8]</value>
+      <webElementGuid>d7bccba6-f3d9-42f4-b3c3-e9f850ffdeae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Name'])[1]/preceding::span[1]</value>
+      <webElementGuid>95ae6568-95fc-407d-bf51-9fe0e443019f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADMINISTRATOR'])[3]/preceding::span[4]</value>
+      <webElementGuid>0d405794-3edb-452a-8da5-3be4b3a5827b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/table/thead/tr/th/span/span/span</value>
+      <webElementGuid>72e711cd-6ffe-45a9-9ae2-8bc69ade2c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Action' or . = 'Action')]</value>
+      <webElementGuid>e1138ac1-c103-44a9-995b-91fda3b97776</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

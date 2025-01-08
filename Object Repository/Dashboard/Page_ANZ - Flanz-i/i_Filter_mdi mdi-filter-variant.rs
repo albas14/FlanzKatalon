@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Filter_mdi mdi-filter-variant</name>
+   <tag></tag>
+   <elementGuidId>2c1df91e-8b71-4224-939b-1e210d75b2bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mdi.mdi-filter-variant</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0c428b07-25e8-48bf-a99c-b755b0280c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mdi mdi-filter-variant</value>
+      <webElementGuid>39ad74c6-e14b-4ea0-b638-3c7b6784bd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnOutgoingFilter&quot;)/i[@class=&quot;mdi mdi-filter-variant&quot;]</value>
+      <webElementGuid>91f513a5-09be-420b-84a1-33587d9f21d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnOutgoingFilter']/i</value>
+      <webElementGuid>27fe3ec1-76fc-4ec0-83e7-7ad675a07f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>8e0fb7ad-80ad-4db9-a2ca-4809a37ed34a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

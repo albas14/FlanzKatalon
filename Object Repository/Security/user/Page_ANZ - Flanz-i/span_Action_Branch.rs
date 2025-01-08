@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Action_Branch</name>
+   <tag></tag>
+   <elementGuidId>11b7631a-c31a-412c-9c36-c3aa74c54b33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia Private Bank'])[1]/following::span[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#c31509c0-f0d0-4836-b19e-0eade00b98e5 > span.k-cell-inner > span.k-link > span.k-column-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>72337858-6fc4-4b92-9262-0101dd505f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-column-title</value>
+      <webElementGuid>3f74ae3b-7ca6-48a1-9434-e04ee3cc2779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Action</value>
+      <webElementGuid>88c41454-6c8b-421a-9438-384e274b76f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c31509c0-f0d0-4836-b19e-0eade00b98e5&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
+      <webElementGuid>dd74e008-5e34-4e26-b03b-81737a0f56c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='c31509c0-f0d0-4836-b19e-0eade00b98e5']/span/span/span</value>
+      <webElementGuid>3d1049aa-2103-41b2-8c9f-794e3d11523a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia Private Bank'])[1]/following::span[5]</value>
+      <webElementGuid>d859891c-e8cc-43be-8c4a-f7902deb38a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addtional Branch'])[1]/following::span[8]</value>
+      <webElementGuid>c905bdff-4876-47c7-927b-5522a1037e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch Name'])[2]/preceding::span[1]</value>
+      <webElementGuid>a9ab216d-5e88-41b3-a08a-f784d9fc4fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia Private Bank'])[2]/preceding::span[4]</value>
+      <webElementGuid>4a851eb8-bf97-4453-8603-0a6b3025a003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div/div/table/thead/tr/th/span/span/span</value>
+      <webElementGuid>bc9822f0-66a3-461e-aa03-f51855fa5db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Action' or . = 'Action')]</value>
+      <webElementGuid>e4b53dda-4681-421b-9be2-2fcdb4dbd841</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

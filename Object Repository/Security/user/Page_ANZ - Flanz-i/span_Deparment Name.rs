@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Deparment Name</name>
+   <tag></tag>
+   <elementGuidId>becbeed9-fbee-4104-91de-50719643e336</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ffd2ac0a-8a18-41cb-8d45-a0c50eb06d0f > span.k-cell-inner > span.k-link > span.k-column-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[@id='ffd2ac0a-8a18-41cb-8d45-a0c50eb06d0f']/span/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>55584698-b746-4bc9-9c35-e0f73eb1a4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-column-title</value>
+      <webElementGuid>e3e91abc-9395-4110-b9e1-a2ba5b3ffd78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deparment Name</value>
+      <webElementGuid>9077eb03-2349-44ac-a0e8-8c5c4add947d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ffd2ac0a-8a18-41cb-8d45-a0c50eb06d0f&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
+      <webElementGuid>650f837d-770c-491a-9c57-87b9a4ab66dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//th[@id='ffd2ac0a-8a18-41cb-8d45-a0c50eb06d0f']/span/span/span</value>
+      <webElementGuid>0ee309b9-5ff7-42c6-b2ab-a64ca4807d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch Name'])[1]/following::span[3]</value>
+      <webElementGuid>eec6dd25-fdf0-45be-81a8-21bd2e07c326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::span[6]</value>
+      <webElementGuid>6420f051-0c0a-4328-83a4-31e63d161d1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Member of'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ff4d5b7-2449-435d-b6e7-c1ec4db6eefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Access'])[1]/preceding::span[4]</value>
+      <webElementGuid>ecee7220-3aaa-469a-8732-8f43739d6869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deparment Name']/parent::*</value>
+      <webElementGuid>76a0e4c4-0252-45c6-b187-f8f6a1ed65e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[9]/span/span/span</value>
+      <webElementGuid>ca839eb0-a6d8-4abf-bee4-a17db4e61c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Deparment Name' or . = 'Deparment Name')]</value>
+      <webElementGuid>e61ffb6e-cb81-4585-967a-302fa816340c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

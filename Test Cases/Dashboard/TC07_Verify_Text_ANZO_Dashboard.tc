@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Verify_Text_ANZO_Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b76b3cc-68c6-42af-84b2-48a11106e7c0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_-- SELECT ONE --_k-input-button k-butt_7cb62b</name>
+   <tag></tag>
+   <elementGuidId>67e98143-aa2d-4569-b268-6b977eaa65f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-picker.k-dropdownlist.form-control.form-control-sm.k-picker-solid.k-picker-md.k-rounded-md.k-hover.k-focus > span.k-input-button.k-button.k-button-md.k-button-solid.k-button-solid-base.k-icon-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f955335-73ce-4d3f-94b8-04df766dbc48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b679a919-2e08-4dcc-afd4-d6053d488e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-button k-button k-button-md k-button-solid k-button-solid-base k-icon-button</value>
+      <webElementGuid>1e2184c5-2291-4754-bdb8-e460a36e00e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3b948e1b-518f-4023-92e7-ffe743e8aee2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ad4fe3fa-ab08-4df6-b4b0-3ff6306a20fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmUserInput&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-7&quot;]/span[@class=&quot;k-picker k-dropdownlist form-control form-control-sm k-picker-solid k-picker-md k-rounded-md k-hover k-focus&quot;]/span[@class=&quot;k-input-button k-button k-button-md k-button-solid k-button-solid-base k-icon-button&quot;]</value>
+      <webElementGuid>440cacf9-e42d-4451-912e-483ea75ff69a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@type='button'])[3]</value>
+      <webElementGuid>2ae0fd26-6137-4836-9cfc-8ead20d78e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmUserInput']/div[6]/div/div/div/span/span[2]</value>
+      <webElementGuid>af482561-799f-453a-9e41-a40a83a9aa36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- SELECT ONE --'])[1]/following::span[1]</value>
+      <webElementGuid>659cb93c-1f93-4c86-9b34-ef7352dfadd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addtional Branch'])[1]/following::span[4]</value>
+      <webElementGuid>ce7b04ef-8447-4288-a3d5-53490dbe8dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[3]/preceding::span[2]</value>
+      <webElementGuid>4a8f0f78-5cd0-4649-b817-80ba15b8bd46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branch Name'])[2]/preceding::span[5]</value>
+      <webElementGuid>b413a182-984d-4433-9e4c-db1e2f6876ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/span/span[2]</value>
+      <webElementGuid>433d3d90-4343-4993-943e-f3812e2768d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@type = 'button']</value>
+      <webElementGuid>37f9385a-ab80-40f9-ae28-2e0e2d6d892d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

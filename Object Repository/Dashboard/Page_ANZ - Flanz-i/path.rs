@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>a4b8e6e4-2d63-4180-8d01-c5e0a6d22436</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-svg-icon.k-svg-i-calendar.k-button-icon > svg > path</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;chrOutgoing&quot;)/svg[1]/g[1]/g[4]/g[1]/g[@class=&quot;k-chart-point&quot;]/path[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>c5508149-7b5d-4ee1-99d2-922a8aef3d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M416 416H288V288h128zm64-352v384c0 17.6-14.4 32-32 32H64c-17.6 0-32-14.4-32-32V64c0-17.6 14.4-32 32-32h64V0h64v32h128V0h64v32h64c17.6 0 32 14.4 32 32m-32 128H64v255.9l.1.1 383.9-.1zm0-127.9q-.15-.15 0 0l-64-.1v32h-64V64H192v32h-64V64H64.1l-.1.1V160h384z</value>
+      <webElementGuid>b0927ac9-b530-4229-a2fe-d9a36191adce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filterPopUp&quot;)/div[@class=&quot;col-md-12 grid-margin&quot;]/div[@class=&quot;card card-popup-filter&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-xs-10 col-sm-10 col-md-10 col-lg-10&quot;]/span[@class=&quot;k-datepicker k-input form-control k-input-solid k-input-md k-rounded-md k-hover&quot;]/button[@class=&quot;k-input-button k-button k-icon-button k-button-md k-button-solid k-button-solid-base&quot;]/span[@class=&quot;k-icon k-svg-icon k-svg-i-calendar k-button-icon&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>f38abd4b-1c47-4918-9687-06de718cf985</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

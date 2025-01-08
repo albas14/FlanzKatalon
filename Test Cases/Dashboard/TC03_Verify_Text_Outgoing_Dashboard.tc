@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Verify_Text_Outgoing_Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d253b688-508f-4b4a-83e2-a61d81b345ef</testCaseGuid>
+</TestCaseEntity>
