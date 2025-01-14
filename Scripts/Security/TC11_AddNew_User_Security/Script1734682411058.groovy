@@ -27,9 +27,9 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/b
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/label_Username'))
 
-WebUI.setText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/input__UserName'), 'ALI TEST')
+WebUI.setText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/input__UserName'), 'QA TEST')
 
-WebUI.setText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/input__FullName'), 'TEST ALI PROFES')
+WebUI.setText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/input__FullName'), 'TEST QA ROFES')
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/label_Full Name'))
 
@@ -61,9 +61,9 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/l
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_ADMINISTRATOR_Add'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Action_Group'), 'Action')
 
@@ -81,9 +81,9 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/s
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/i_Indonesia Private Bank_mdi mdi-plus-box-o_118bd6'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Action_Branch'))
 
@@ -100,9 +100,9 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/l
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_BKT_Add'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Action_TransactionType'))
 
@@ -116,9 +116,19 @@ WebUI.verifyElementClickable(findTestObject('Security/user/Page_ANZ - Flanz-i/in
 
 WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/input_BKT_Submit'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
+
+WebUI.scrollToElement(findTestObject('Security/user/Page_ANZ - Flanz-i/span_Full Name'), 5)
+
+def tanggal = new Date().format('dd-MM-yyyy')
+
+def waktu = new Date().format('HH-mm-ss' // Menambahkan jam, menit, dan detik
+    )
+
+
+WebUI.takeScreenshot(((('C:\\ALIBAS PROJECT\\SS_Katalon_Flanz\\User\\add_user_succes_' + tanggal) + '_') + waktu) + '.png')
 
 WebUI.closeBrowser()
 

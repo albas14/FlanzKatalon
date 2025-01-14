@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Full Name</name>
+   <name>span_0320 - ANZ CBD PLUIT BRANCH</name>
    <tag></tag>
-   <elementGuidId>69e9f5b6-5e80-451f-bac6-9098013a05da</elementGuidId>
+   <elementGuidId>a73da376-9c17-4653-a163-ba9e794b63ac</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'Full Name' or . = 'Full Name')]</value>
+         <value>//ul[@id='ddlBranch_listbox']/li[3]/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#f67fb335-c8bd-4026-bd10-4455182f83bd > span.k-cell-inner > span.k-link > span.k-column-title</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,94 +23,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8e759a4d-68d7-4452-b896-0b634db4be52</webElementGuid>
+      <webElementGuid>e5737b51-8df2-44d5-b328-1a1dfefdcfb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-column-title</value>
-      <webElementGuid>d5217673-a3f0-4223-8478-153ae6531669</webElementGuid>
+      <value>k-list-item-text</value>
+      <webElementGuid>85a04690-7249-4afe-a8d7-1a7e7ecec123</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Full Name</value>
-      <webElementGuid>d500d9e8-4bdb-49dd-a7cc-8993016fc360</webElementGuid>
+      <value>0320 - ANZ CBD PLUIT BRANCH</value>
+      <webElementGuid>eb7a8dbd-56df-4eaf-a49b-10663174dc2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;f67fb335-c8bd-4026-bd10-4455182f83bd&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
-      <webElementGuid>ba68fab9-7d8a-4ae5-a3a2-53cc1701c02a</webElementGuid>
+      <value>id(&quot;ddlBranch_listbox&quot;)/li[@class=&quot;k-list-item&quot;]/span[@class=&quot;k-list-item-text&quot;]</value>
+      <webElementGuid>4704727f-97af-428f-9f82-4a8ada4e6423</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//th[@id='f67fb335-c8bd-4026-bd10-4455182f83bd']/span/span/span</value>
-      <webElementGuid>3b5fb44b-986b-4eb4-a83b-8fdc1349e2fb</webElementGuid>
+      <value>//ul[@id='ddlBranch_listbox']/li[3]/span</value>
+      <webElementGuid>1b278d0e-9bee-40d6-9dcd-ea505e2e6146</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Id'])[1]/following::span[3]</value>
-      <webElementGuid>53d09ef1-156e-44da-84ba-6791fe5ba03c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- SELECT ONE --'])[4]/following::span[3]</value>
+      <webElementGuid>6da06c85-c761-4179-b2aa-118f9cf6fa9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::span[6]</value>
-      <webElementGuid>92b5f4e5-85e4-4bd0-947a-0e640b1bc80b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BKT'])[1]/following::span[9]</value>
+      <webElementGuid>ff84e7ef-8024-40bd-b202-d5049a2cd87b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/preceding::span[1]</value>
-      <webElementGuid>08ff78d1-ffc8-4a02-a8ee-823982ecd486</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[1]/preceding::span[27]</value>
+      <webElementGuid>f1db8f1f-5c8c-4c7a-9012-1c7e5909ccf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::span[4]</value>
-      <webElementGuid>fa0deb16-20fd-4b94-96d4-23f479add251</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- SELECT ONE --'])[5]/preceding::span[27]</value>
+      <webElementGuid>bac37ec8-74f7-47fe-840f-3cf2b9ab0eec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Full Name']/parent::*</value>
-      <webElementGuid>ff064323-9e25-4a61-a334-efc3499afa9f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='0320 - ANZ CBD PLUIT BRANCH']/parent::*</value>
+      <webElementGuid>a86cc949-55b0-4dd1-83ae-f7d8d3890063</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//th[4]/span/span/span</value>
-      <webElementGuid>3e2af08f-04f9-4011-8476-f8c568c3b12f</webElementGuid>
+      <value>//li[3]/span</value>
+      <webElementGuid>5bc7306f-c4d8-4e68-9ab1-436836873f9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Full Name' or . = 'Full Name')]</value>
-      <webElementGuid>3b9b44fe-903a-414e-ad6c-6f90038924ab</webElementGuid>
+      <value>//span[(text() = '0320 - ANZ CBD PLUIT BRANCH' or . = '0320 - ANZ CBD PLUIT BRANCH')]</value>
+      <webElementGuid>6547ca1c-3107-4327-b7e0-5cda8868eace</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

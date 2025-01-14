@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Full Name</name>
+   <name>td_CBFT</name>
    <tag></tag>
-   <elementGuidId>69e9f5b6-5e80-451f-bac6-9098013a05da</elementGuidId>
+   <elementGuidId>582cd3cf-3844-49a4-97ed-a8b949806fb7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'Full Name' or . = 'Full Name')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='BKT'])[1]/following::td[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#f67fb335-c8bd-4026-bd10-4455182f83bd > span.k-cell-inner > span.k-link > span.k-column-title</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>8e759a4d-68d7-4452-b896-0b634db4be52</webElementGuid>
+      <value>td</value>
+      <webElementGuid>21b7b9ae-7c7c-4fd4-baf5-8ad070a04405</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-column-title</value>
-      <webElementGuid>d5217673-a3f0-4223-8478-153ae6531669</webElementGuid>
+      <value>k-table-td</value>
+      <webElementGuid>3919abc3-09e7-4c7e-9cbd-54c9094053ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>89e902ef-f4bf-4df2-b5e2-64eb0745eba7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Full Name</value>
-      <webElementGuid>d500d9e8-4bdb-49dd-a7cc-8993016fc360</webElementGuid>
+      <value>CBFT</value>
+      <webElementGuid>a8c34dcf-c45e-4f74-bb04-4890cf29890e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;f67fb335-c8bd-4026-bd10-4455182f83bd&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
-      <webElementGuid>ba68fab9-7d8a-4ae5-a3a2-53cc1701c02a</webElementGuid>
+      <value>id(&quot;de87ea60-b369-4df3-bdad-f352465dcc51&quot;)/tr[@class=&quot;k-alt k-table-row k-table-alt-row k-master-row&quot;]/td[@class=&quot;k-table-td&quot;]</value>
+      <webElementGuid>f8c5d8c1-47c2-48c8-8a58-08fc92ba7df7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//th[@id='f67fb335-c8bd-4026-bd10-4455182f83bd']/span/span/span</value>
-      <webElementGuid>3b5fb44b-986b-4eb4-a83b-8fdc1349e2fb</webElementGuid>
+      <value>//tbody[@id='de87ea60-b369-4df3-bdad-f352465dcc51']/tr[2]/td[2]</value>
+      <webElementGuid>c490392e-7d77-45ad-a545-fc2da4955351</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Id'])[1]/following::span[3]</value>
-      <webElementGuid>53d09ef1-156e-44da-84ba-6791fe5ba03c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BKT'])[1]/following::td[2]</value>
+      <webElementGuid>1d0bd767-498c-41fb-8195-1c6ab1a0d8ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::span[6]</value>
-      <webElementGuid>92b5f4e5-85e4-4bd0-947a-0e640b1bc80b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Name'])[1]/following::td[4]</value>
+      <webElementGuid>4fb11fc1-4e0c-4f74-8e6b-375dd791a699</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/preceding::span[1]</value>
-      <webElementGuid>08ff78d1-ffc8-4a02-a8ee-823982ecd486</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- SELECT ONE --'])[1]/preceding::td[1]</value>
+      <webElementGuid>bef591c5-df7b-406c-9dbe-5f2b4395f0c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::span[4]</value>
-      <webElementGuid>fa0deb16-20fd-4b94-96d4-23f479add251</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Full Name']/parent::*</value>
-      <webElementGuid>ff064323-9e25-4a61-a334-efc3499afa9f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[1]/preceding::td[1]</value>
+      <webElementGuid>45f9e086-b838-4629-8a6a-4fd538ad162e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//th[4]/span/span/span</value>
-      <webElementGuid>3e2af08f-04f9-4011-8476-f8c568c3b12f</webElementGuid>
+      <value>//div[7]/div[2]/div/div/div/div[2]/div/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>885558fa-977b-4059-acba-5aba3ae7cf98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Full Name' or . = 'Full Name')]</value>
-      <webElementGuid>3b9b44fe-903a-414e-ad6c-6f90038924ab</webElementGuid>
+      <value>//td[(text() = 'CBFT' or . = 'CBFT')]</value>
+      <webElementGuid>dd0c7248-571a-4559-8ad5-4180f34f39ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

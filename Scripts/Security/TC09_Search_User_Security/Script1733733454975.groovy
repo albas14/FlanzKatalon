@@ -16,7 +16,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-
+WebUI.callTestCase(findTestCase('Login/TC01_Login_Succes'), [:], FailureHandling.STOP_ON_FAILURE)
 // Langkah 1: Klik menu Security
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/a_Security'))
 
@@ -48,5 +48,11 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/b
 // Screenshot
 def tanggal = new Date().format('dd-MM-yyyy')
 
-WebUI.takeScreenshot(('D:\\2024\\SearchBerhasil_' + tanggal) + '.png')
+def waktu = new Date().format('HH-mm-ss' // Menambahkan jam, menit, dan detik
+	)
+
+
+WebUI.takeScreenshot(((('C:\\ALIBAS PROJECT\\SS_Katalon_Flanz\\User\\search_user_succes_' + tanggal) + '_') + waktu) + '.png')
+
+WebUI.closeBrowser()
 

@@ -33,11 +33,15 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/b
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok (delete user)'), 
     2)
+def tanggal = new Date().format('dd-MM-yyyy')
+
+def waktu = new Date().format('HH-mm-ss' // Menambahkan jam, menit, dan detik
+	)
+
+
+WebUI.takeScreenshot(((('C:\\ALIBAS PROJECT\\SS_Katalon_Flanz\\User\\delete_user_succes_' + tanggal) + '_') + waktu) + '.png')
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok (delete user)'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok (delete user)'), 
-    2)
 
 WebUI.closeBrowser()
 

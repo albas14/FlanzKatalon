@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Full Name</name>
+   <name>button_CBFT_Add</name>
    <tag></tag>
-   <elementGuidId>69e9f5b6-5e80-451f-bac6-9098013a05da</elementGuidId>
+   <elementGuidId>455aaa6c-40c8-4ab2-a609-8428abce6965</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[(text() = 'Full Name' or . = 'Full Name')]</value>
+         <value>//button[@id='btnAddTransactionType']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#f67fb335-c8bd-4026-bd10-4455182f83bd > span.k-cell-inner > span.k-link > span.k-column-title</value>
+         <value>#btnAddTransactionType</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,95 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>8e759a4d-68d7-4452-b896-0b634db4be52</webElementGuid>
+      <value>button</value>
+      <webElementGuid>b3551f6e-02db-4e83-a620-5558e44db2e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>4e876d7b-1ab1-4879-b87a-b4d86f112248</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnAddTransactionType</value>
+      <webElementGuid>563247f6-5c46-4049-bf17-6871c51fc873</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>k-column-title</value>
-      <webElementGuid>d5217673-a3f0-4223-8478-153ae6531669</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Full Name</value>
-      <webElementGuid>d500d9e8-4bdb-49dd-a7cc-8993016fc360</webElementGuid>
+      <value>btn btn-primary mr-2</value>
+      <webElementGuid>bfb38acf-9386-4b8b-92c1-73c344878645</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;f67fb335-c8bd-4026-bd10-4455182f83bd&quot;)/span[@class=&quot;k-cell-inner&quot;]/span[@class=&quot;k-link&quot;]/span[@class=&quot;k-column-title&quot;]</value>
-      <webElementGuid>ba68fab9-7d8a-4ae5-a3a2-53cc1701c02a</webElementGuid>
+      <value>id(&quot;btnAddTransactionType&quot;)</value>
+      <webElementGuid>dd7d9ce3-3b4e-4ded-8574-44f064e1ef84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnAddTransactionType']</value>
+      <webElementGuid>f9caf4aa-1e18-4957-881a-c26db12372e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//th[@id='f67fb335-c8bd-4026-bd10-4455182f83bd']/span/span/span</value>
-      <webElementGuid>3b5fb44b-986b-4eb4-a83b-8fdc1349e2fb</webElementGuid>
+      <value>//form[@id='frmUserInput']/div[7]/div/div/button</value>
+      <webElementGuid>33387b9c-e418-414e-b371-db452e8384f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Id'])[1]/following::span[3]</value>
-      <webElementGuid>53d09ef1-156e-44da-84ba-6791fe5ba03c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CBFT'])[1]/following::button[1]</value>
+      <webElementGuid>ca428ffb-9965-40b9-8992-46ec848765e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::span[6]</value>
-      <webElementGuid>92b5f4e5-85e4-4bd0-947a-0e640b1bc80b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[1]/following::button[1]</value>
+      <webElementGuid>da85388d-a62a-4062-87f3-35a166a75b25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/preceding::span[1]</value>
-      <webElementGuid>08ff78d1-ffc8-4a02-a8ee-823982ecd486</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[4]/preceding::button[1]</value>
+      <webElementGuid>4c33c50d-5127-4f69-adb3-c320bd9a1635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::span[4]</value>
-      <webElementGuid>fa0deb16-20fd-4b94-96d4-23f479add251</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Full Name']/parent::*</value>
-      <webElementGuid>ff064323-9e25-4a61-a334-efc3499afa9f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>ef7dc6c6-edd3-4b65-be1f-0bf264f98e1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//th[4]/span/span/span</value>
-      <webElementGuid>3e2af08f-04f9-4011-8476-f8c568c3b12f</webElementGuid>
+      <value>//div[7]/div/div/button</value>
+      <webElementGuid>06f544c0-047d-40b9-ac83-a46165de6cbb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Full Name' or . = 'Full Name')]</value>
-      <webElementGuid>3b9b44fe-903a-414e-ad6c-6f90038924ab</webElementGuid>
+      <value>//button[@name = 'Add' and @id = 'btnAddTransactionType']</value>
+      <webElementGuid>1d3e5c9d-9296-4e38-90c7-49babf736570</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

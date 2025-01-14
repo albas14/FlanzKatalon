@@ -23,6 +23,8 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/a
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/a_User'))
 
+WebUI.scrollToElement(findTestObject('Security/user/Page_ANZ - Flanz-i/span_Full Name'), 5)
+
 WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/button_edit_user'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/label_Username'))
@@ -43,7 +45,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_
 
 WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/span_-- SELECT ONE --Branch Code'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_0309 - ANZ BALIKPAPAN BRANCH'))
+WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/span_0320 - ANZ CBD PLUIT BRANCH'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/label_Last Update'))
 
@@ -55,19 +57,19 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_
 
 WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/span_-- SELECT ONE --_Group'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/li_ADMINISTRATOR'))
+WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/li_TestQA1'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_ADMINISTRATOR_Add'))
+WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/button_TestQA1_Add'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Action_Group'), 'Action')
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Group Name_Group'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/td_ADMINISTRATOR'), 'ADMINISTRATOR')
+WebUI.verifyElementText(findTestObject('Security/user/Page_ANZ - Flanz-i/td_TestQA1'), 'TestQA1')
 
 WebUI.scrollToElement(findTestObject('Security/user/Page_ANZ - Flanz-i/label_Addtional Branch'), 5)
 
@@ -79,44 +81,44 @@ WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/s
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/i_Indonesia Private Bank_mdi mdi-plus-box-o_118bd6'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
-
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Action_Branch'))
-
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Branch Name'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/td_Indonesia Private Bank'), 
-    'Indonesia Private Bank')
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/label_Transaction Type'))
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_-- SELECT ONE --TransactionType'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/li_BKT'))
+WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/li_CBFT'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_BKT_Add'))
+WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/button_CBFT_Add'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
-
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Action_TransactionType'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
 WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/span_Transaction Name'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/td_BKT'), 'BKT')
+WebUI.verifyElementText(findTestObject('Security/user/Page_ANZ - Flanz-i/td_CBFT'), 'CBFT')
 
-WebUI.scrollToElement(findTestObject('Security/user/Page_ANZ - Flanz-i/input_BKT_Submit'), 5)
+WebUI.scrollToElement(findTestObject('Security/user/Page_ANZ - Flanz-i/input_CBFT_Submit'), 5)
 
-WebUI.verifyElementClickable(findTestObject('Security/user/Page_ANZ - Flanz-i/input_BKT_Submit'))
+WebUI.verifyElementClickable(findTestObject('Security/user/Page_ANZ - Flanz-i/input_CBFT_Submit'))
 
-WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/input_BKT_Submit'))
+WebUI.click(findTestObject('Security/user/Page_ANZ - Flanz-i/input_CBFT_Submit'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
 
-WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok'))
+WebUI.click(findTestObject('Object Repository/Security/user/Page_ANZ - Flanz-i/button_Ok_add_user'))
+
+WebUI.scrollToElement(findTestObject('Security/user/Page_ANZ - Flanz-i/input_CBFT_Submit'), 5)
+
+def tanggal = new Date().format('dd-MM-yyyy')
+
+def waktu = new Date().format('HH-mm-ss' // Menambahkan jam, menit, dan detik
+    )
+
+WebUI.takeScreenshot(((('C:\\ALIBAS PROJECT\\SS_Katalon_Flanz\\User\\edit_user_succes_' + tanggal) + '_') + waktu) + '.png')
 
 WebUI.closeBrowser()
 
